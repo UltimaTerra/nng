@@ -14,3 +14,12 @@ compile_flags.txt
 .zed
 .nova
 *~
+
+
+.github/*
+build/*
+cmake/*
+demo/*
+docs/*
+etc/*
+lib/*
